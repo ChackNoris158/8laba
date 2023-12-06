@@ -1,0 +1,14 @@
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sales.mdf
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Sales_log.ldf
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\alpha\ip521-11$\Мои документы\РПМ\8лаба\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
